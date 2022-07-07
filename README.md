@@ -9,3 +9,6 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
 # Skills :collision:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Streak :triangular_flag_on_post:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-0914&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
