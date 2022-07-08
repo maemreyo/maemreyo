@@ -12,3 +12,6 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
 # Streak :triangular_flag_on_post:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-0914&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+
+# Repo
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=substrate-tutorials)](https://github.com/T-0914/substrate-tutorials)
