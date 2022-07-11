@@ -1,4 +1,4 @@
-# Hi there :v!:
+# Hi there :v:
 Currently, I'm working as a Software Engineer. I love learning new technologies, coding and problem solving.
 
 I'm focusing on Web Development and my vision is to learn things in best way and try to create best quality software.
