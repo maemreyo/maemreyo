@@ -14,5 +14,6 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-0914&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
 
 # Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=substrate-tutorials)](https://github.com/T-0914/substrate-tutorials)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=zombie-factory)](https://github.com/T-0914/zombie-factory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=substrate-tutorials)](https://github.com/T-0914/substrate-tutorials)
