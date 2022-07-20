@@ -17,3 +17,4 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=zombie-factory)](https://github.com/T-0914/zombie-factory)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=substrate-tutorials)](https://github.com/T-0914/substrate-tutorials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=vbi-advanced-substrate)](https://github.com/T-0914/vbi-advanced-substrate)
