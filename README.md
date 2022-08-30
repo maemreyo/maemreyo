@@ -5,16 +5,16 @@ I'm focusing on Web Development and my vision is to learn things in best way and
 
 Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
-![Shyoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-0914&show_icons=true&theme=radical)
+![Shyoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=maemreyo&show_icons=true&theme=radical)
 
 # Skills :collision:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-0914&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maemreyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Streak :triangular_flag_on_post:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T-0914&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maemreyo&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
 
 # Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=zombie-factory)](https://github.com/T-0914/zombie-factory)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=substrate-tutorials)](https://github.com/T-0914/substrate-tutorials)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=T-0914&repo=vbi-advanced-substrate)](https://github.com/T-0914/vbi-advanced-substrate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maemreyo&repo=zombie-factory)](https://github.com/maemreyo/zombie-factory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maemreyo&repo=substrate-tutorials)](https://github.com/maemreyo/substrate-tutorials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maemreyo&repo=vbi-advanced-substrate)](https://github.com/maemreyo/vbi-advanced-substrate)
