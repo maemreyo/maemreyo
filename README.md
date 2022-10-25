@@ -8,7 +8,7 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 ![Shyoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=maemreyo&show_icons=true&theme=radical)
 
 # Skills :collision:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maemreyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maemreyo&layout=compact&hide=rust)](https://github.com/anuraghazra/github-readme-stats)
 
 # Streak :triangular_flag_on_post:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maemreyo&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
