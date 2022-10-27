@@ -5,7 +5,7 @@ I'm focusing on Web Development and my vision is to learn things in best way and
 
 Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 ---
 
