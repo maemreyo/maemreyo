@@ -18,3 +18,19 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+
+
+---
+
+<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+
+<p align="center"><img src="https://github.com/arpanaditya/arpanaditya/blob/main/ezgif.com-gif-maker.gif" alt="@arpanaditya Gitub Skyline" width="600" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=arpanaditya&theme=dracula&show_icons=true" alt="arpanaditya" width="400" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=arpanaditya&theme=dracula&hide_border=false" alt ="arpanaditya" width="400" />
+</p>
+
+<p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="700" /> </p>
+
+<h3 align="center">Thank you so much for coming here :pray:</h3>
