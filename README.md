@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">My GitHub Stats <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
