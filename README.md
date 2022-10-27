@@ -5,14 +5,8 @@ I'm focusing on Web Development and my vision is to learn things in best way and
 
 Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 
-![Shyoski's GitHub stats](https://github-readme-stats.vercel.app/api?username=maemreyo&show_icons=true&theme=radical)
-
-# Skills :collision:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maemreyo&hide=rust)](https://github.com/anuraghazra/github-readme-stats)
-
-# Streak :triangular_flag_on_post:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maemreyo&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
-
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=siddhi-244&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
 ---
 
 ### :zap: Recent Activity
