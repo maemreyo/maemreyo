@@ -32,12 +32,11 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
 </p>
 
-<p align="center"> <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="700" /> </p>
+
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
-<!-- <p align="center"><img src="https://github.com/maemreyo/maemreyo/blob/main/ezgif.com-gif-maker.gif" alt="@maemreyo Gitub Skyline" width="600" /></p> -->
 ---
 
 ### :zap: Recent Activity
@@ -48,3 +47,8 @@
 3. 💪 Opened PR [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 4. ❗️ Opened issue [#5869](https://github.com/EddieHubCommunity/support/issues/5869) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
+
+<p align="center">
+ <p align="center"> <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="700" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
