@@ -49,6 +49,8 @@
 <!--END_SECTION:activity-->
 
 <p align="center">
- <p align="center"> <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="700" /> </p>
+<!--  <p align="center">  -->
+  <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="700" />
+<!-- </p> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
