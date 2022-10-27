@@ -18,6 +18,11 @@ Besides, I'm learning about Rust and Substrate framework to create a blockchain.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 💪 Opened PR [#2041](https://github.com/EddieHubCommunity/LinkFree/pull/2041) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 💪 Opened PR [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#5869](https://github.com/EddieHubCommunity/support/issues/5869) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+<!--END_SECTION:activity-->
 
 
 
