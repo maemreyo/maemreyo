@@ -10,8 +10,6 @@
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
 
 
----
-
 ### &nbsp;- Languages
 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/ts.png' height='50'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
@@ -24,7 +22,7 @@
  
 &nbsp;
 
-
+[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,8 +34,6 @@
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
-
----
 
 ### :zap: Recent Activity
 
