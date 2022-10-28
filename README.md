@@ -1,6 +1,15 @@
-[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
-<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
-# Hi there :v:
+<h1 align="center">
+	<img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/hello.gif" height="30"/> Hello there!
+</h1>
+<a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" height="300" align="right" alt="maemreyo's Dev Card"/></a>
+
+<div align="center">
+	[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
+</div>
+
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
+</div>
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.\
 🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.\
@@ -10,24 +19,50 @@
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
-<!-- <a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" width="400" alt="maemreyo's Dev Card"/></a> -->
 
-### &nbsp;- Languages
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
+</div>
 
-<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp; <img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+### 📌 Languages
 
-### &nbsp;- Libraries, Frameworks, Tools  
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='40'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='40'/>&nbsp; 
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' width='40'/>&nbsp; 
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+</div>
 
 
-<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/><img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
-<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
+</div>
+
+### 📌 Libraries, Frameworks, Tools  
+
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;
+</div>
+
  
-&nbsp;
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
 </p>
 
 
@@ -48,8 +83,6 @@
 8. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 9. 🗣 Commented on [#263](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/263) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
 <!--END_SECTION:activity-->
-
-
 
 
 <p align="center">
