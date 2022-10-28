@@ -42,10 +42,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#2041](https://github.com/EddieHubCommunity/LinkFree/pull/2041) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#5869](https://github.com/EddieHubCommunity/support/issues/5869) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+2. 💪 Opened PR [#13](https://github.com/mathiasfc/learning-english/pull/13) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+3. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+4. 🗣 Commented on [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 <p align="center">
