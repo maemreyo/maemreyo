@@ -8,7 +8,7 @@
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
-<a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" width="400" alt="maemreyo's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" width="400" alt="maemreyo's Dev Card"/></a> -->
 
 ### &nbsp;- Languages
 
