@@ -39,14 +39,14 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-2. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-3. 💪 Opened PR [#66](https://github.com/vczb/sagu-ui/pull/66) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-4. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-5. 🗣 Commented on [#263](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/263) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
-6. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-7. 💪 Opened PR [#65](https://github.com/vczb/sagu-ui/pull/65) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-8. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-9. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+2. 🗣 Commented on [#35](https://github.com/vczb/sagu-ui/issues/35) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+3. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+4. 💪 Opened PR [#66](https://github.com/vczb/sagu-ui/pull/66) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+5. 🗣 Commented on [#2](https://github.com/vczb/sagu-ui/issues/2) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+6. 🗣 Commented on [#263](https://github.com/jsvigneshkanna/tailwind_ui_components/issues/263) in [jsvigneshkanna/tailwind_ui_components](https://github.com/jsvigneshkanna/tailwind_ui_components)
+7. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+8. 💪 Opened PR [#65](https://github.com/vczb/sagu-ui/pull/65) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+9. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 <!--END_SECTION:activity-->
 
 
