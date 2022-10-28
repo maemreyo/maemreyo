@@ -1,3 +1,5 @@
+[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
+<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 # Hi there :v:
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.\
@@ -12,17 +14,15 @@
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/ts.png' height='50'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='40'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp; <img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' width='40'/>&nbsp; <img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' width='40'/>&nbsp;
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
 
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/redux.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/><img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/css.png' height='50'/>&nbsp;
-<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;
+<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/><img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
+<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;
  
 &nbsp;
-
-[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
