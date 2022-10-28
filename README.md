@@ -39,9 +39,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-2. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
-3. 💪 Opened PR [#13](https://github.com/mathiasfc/learning-english/pull/13) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
-4. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+2. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+3. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+4. 💪 Opened PR [#13](https://github.com/mathiasfc/learning-english/pull/13) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
 <!--END_SECTION:activity-->
 
 <p align="center">
