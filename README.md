@@ -1,16 +1,15 @@
 <h1 align="center">
-	<img src="https://github.com/eduardconstantin/eduardconstantin/blob/main/hello.gif" height="30"/> Hello there!
+	<img src="https://github.com/maemreyo/maemreyo/blob/main/hello.gif" height="30"/> Hello there!
 </h1>
-<a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" height="300" align="right" alt="maemreyo's Dev Card"/></a>
 
-<div align="center">
-	[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
-</div>
+[![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
 
 <div align="center">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
-
+<a href="https://app.daily.dev/maemreyo">
+	<img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" height="300" align="right" alt="maemreyo's Dev Card"/>
+</a>
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.\
 🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.\
 ✍️ &nbsp;In my free time, I try to find something interested to explore.\
@@ -20,9 +19,6 @@
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
 
-<div align="center">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
-</div>
 
 ### 📌 Languages
 
@@ -31,11 +27,6 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='40'/>&nbsp; 
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' width='40'/>&nbsp; 
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' width='40'/>&nbsp;
-</div>
-
-
-<div align="center">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
 
 ### 📌 Libraries, Frameworks, Tools  
