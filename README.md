@@ -39,14 +39,14 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-2. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-3. 💪 Opened PR [#64](https://github.com/vczb/sagu-ui/pull/64) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+2. 💪 Opened PR [#65](https://github.com/vczb/sagu-ui/pull/65) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+3. 🗣 Commented on [#3](https://github.com/vczb/sagu-ui/issues/3) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 4. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-5. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-6. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
-7. 💪 Opened PR [#13](https://github.com/mathiasfc/learning-english/pull/13) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
+5. 💪 Opened PR [#64](https://github.com/vczb/sagu-ui/pull/64) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+6. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+7. 🗣 Commented on [#49](https://github.com/vczb/sagu-ui/issues/49) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 8. 🗣 Commented on [#4](https://github.com/mathiasfc/learning-english/issues/4) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
-9. 🗣 Commented on [#2146](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/2146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+9. 💪 Opened PR [#13](https://github.com/mathiasfc/learning-english/pull/13) in [mathiasfc/learning-english](https://github.com/mathiasfc/learning-english)
 <!--END_SECTION:activity-->
 
 
