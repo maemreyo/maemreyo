@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/maemreyo/maemreyo/blob/main/hello.gif" height="30"/> Hello there!
+	<img src="https://github.com/maemreyo/maemreyo/blob/main/assets/hello.gif" height="30"/> Hello there!
 </h1>
 
 [![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
