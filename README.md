@@ -7,31 +7,40 @@
 <div align="center">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
-<a href="https://app.daily.dev/maemreyo">
-	<img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" height="300" align="right" alt="maemreyo's Dev Card"/>
-</a>
-💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.\
-🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.\
-✍️ &nbsp;In my free time, I try to find something interested to explore.\
-<!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 
+<br/>
+
+<a href="https://app.daily.dev/maemreyo">
+	<img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=ht7" height="400" align="right" alt="maemreyo's Dev Card"/>
+</a>
+💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.<br/><br/>
+🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.<br/><br/>
+✍️ &nbsp;In my free time, I try to find something interested to explore.<br/>
+
+<!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
 
+## 📌 Languages
 
-### 📌 Languages
+<br/>
 
-<div align="center">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='40'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='40'/>&nbsp; 
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' width='40'/>&nbsp; 
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' width='40'/>&nbsp;
+<div align="left">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp; 
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;
 </div>
 
-### 📌 Libraries, Frameworks, Tools  
+<br/>
 
-<div align="center">
+## 📌 Libraries, Frameworks, Tools
+
+<br/>
+
+<div align="left">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;
@@ -39,29 +48,29 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;
 </div>
-
- 
+<br/>
 <div align="center">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
+
+<br/>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
+	<img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="500" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="500" />
 </p>
 
-
+<br/>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=maemreyo&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#65](https://github.com/vczb/sagu-ui/issues/65) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
@@ -78,7 +87,7 @@
 
 <p align="center">
 <!--  <p align="center">  -->
-  <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="700" />
+  <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="1000" />
 <!-- </p> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" width="1100"/>
 </p>
