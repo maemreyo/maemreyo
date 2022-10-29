@@ -61,8 +61,8 @@
 <br/>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="500" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="500" />
+	<img src="https://github-readme-stats.vercel.app/api?username=maemreyo&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=maemreyo&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
 </p>
 
 <br/>
