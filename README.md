@@ -16,8 +16,8 @@
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.<br/><br/>
 🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.<br/><br/>
-✍️ &nbsp;In my free time, I try to find something interested to explore.<br/>
-
+✍️ &nbsp;In my free time, I try to find something interested to explore.<br/><br/>
+📌 &nbsp;My target is to learn ***Rust*** and ***NextJS*** before the end of 2022. Let's connect.<br/>
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
