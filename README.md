@@ -34,6 +34,7 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/rust.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/>
