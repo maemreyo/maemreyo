@@ -1,6 +1,9 @@
 <h1 align="center">
 	<img src="https://github.com/maemreyo/maemreyo/blob/main/assets/hello.gif" height="30"/> Hello there!
+	
 </h1>
+
+<h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 [![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo)
 
@@ -19,35 +22,36 @@
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!  -->
-
-## 📌 Languages
+<br/>
+	
+## 🧬 Languages
 
 <br/>
 
-<div align="left">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp; 
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/js.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/ts.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/html.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/css.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/md.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/>
 
-## 📌 Libraries, Frameworks, Tools
+## 💥 Libraries, Frameworks, Tools
 
 <br/>
 
-<div align="left">
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
-	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;
+<div align="center">
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactl.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/redux.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/reactnative.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/nextjs.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/express.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/mongodb.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br/>
 <div align="center">
