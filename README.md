@@ -53,6 +53,7 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/node-js.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/git.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/graphql.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br/>
 <div align="center">
