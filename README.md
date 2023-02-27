@@ -15,7 +15,7 @@
 <!-- <a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=7yx" width="400" align="right" alt="maemreyo's Dev Card"/></a> -->
 
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.<br/><br/>
-🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.<br/><br/>
+<!-- 🎓 &nbsp;I'm currently studying algorithms and improving my English day by day.<br/><br/> -->
 ✍️ &nbsp;In my free time, I try to find something interested to explore.<br/><br/>
 <!-- 📌 &nbsp;My target is to learn ***Rust*** and ***NextJS*** before the end of 2022. Let's connect.<br/> -->
 <!-- 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\ -->
