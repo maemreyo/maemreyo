@@ -99,4 +99,4 @@
   <img src="https://github.com/maemreyo/maemreyo/blob/output/github-snake-dark.svg" width="1000" />
 <!-- </p> -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling" width="1100"/>
-</p>
+</p> 
