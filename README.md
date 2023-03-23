@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://github.com/maemreyo/maemreyo/blob/main/assets/hello.gif" height="30"/> Hello there!
-	     
+	      
 </h1>
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
