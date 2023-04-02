@@ -7,7 +7,7 @@
 
 [![@maemreyo's Holopin board](https://holopin.me/maemreyo)](https://holopin.io/@maemreyo) 
  
-<div align="center"> 
+<div align="center">  
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
 
