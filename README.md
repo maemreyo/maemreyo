@@ -59,7 +59,7 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/docker.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/heroku.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/><br/>
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/logo/godot.png' height='50'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</div> 
 <br/>
 <div align="center">
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
