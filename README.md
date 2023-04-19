@@ -11,7 +11,7 @@
 	<img src = 'https://github.com/maemreyo/maemreyo/blob/main/assets/divider1.png' height='40'/>
 </div>
 
-<br/> 
+<br/>  
 <!-- <a href="https://app.daily.dev/maemreyo"><img src="https://api.daily.dev/devcards/a70ef13f883e45bf9a51868650c1e589.png?r=7yx" width="400" align="right" alt="maemreyo's Dev Card"/></a> --> 
  
 💡 &nbsp;I like to explore new technologies, develop software solutions and problem solving.<br/><br/>
